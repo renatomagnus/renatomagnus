@@ -22,6 +22,7 @@
 <h2>🌱 Learning</h2>
 
   <p>I'm always eager to learn new technologies and improve my skills. Currently, I'm focused on improving the languages I already know, so that I can increasingly deliver higher quality products.</p>
+  <p>Also, I'm learning C#. I believe that a better understand about backend and programming logic will help me to inprove in frontend and allows me to consider myself a full stack developer.</p>
 
  <h2>About Me</h2>
   <p>I'm passionate about technology and constantly curious about exploring new possibilities. My love for coding and problem-solving led me to pursue a career in software development. I enjoy building innovative and efficient solutions to real-world challenges.</p>
