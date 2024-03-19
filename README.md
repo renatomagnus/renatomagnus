@@ -29,7 +29,7 @@
 <br>
 <div>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renatomagnus&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renatomagnus&layout=compact"/>
+ <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renatomagnus&layout=compact"/> -->
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></i>
