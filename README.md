@@ -5,7 +5,7 @@
  <h2>💼 Experience</h2>
 
   <ul>
-    <li>Currently, I work as a frontend developer at BrainLite, where I'm responsible for creating and maintaining responsive and intuitive user interfaces.</li>
+    <li>Currently, I work as a fullstack developer at BrainLite, where I'm responsible for creating and maintaining responsive and intuitive user interfaces.</li>
     <li>Previously, I worked as an financial advisor at Santander and on small banks, where I had the opportunity to learn and enhance my soft skills.</li>
   </ul>
   
@@ -13,6 +13,7 @@
 
   <ul>
     <li>JavaScript, React.js, Next.js</li>
+    <li>Node.js, MongoDB, Express.js, PostgreSQL</li>
     <li>Html, CSS, Sass, Less</li>
     <li>Cypress</li>
     <li>Version control with Git</li>
