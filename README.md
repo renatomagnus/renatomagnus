@@ -13,7 +13,8 @@
 
   <ul>
     <li>JavaScript, React.js, Next.js</li>
-    <li>Node.js, MongoDB, Express.js, PostgreSQL</li>
+    <li>Node.js, Express.js, Nest.js </li>
+   <li>MongoDB, PostgreSQL </li>li>
     <li>Html, CSS, Sass, Less</li>
     <li>Cypress</li>
     <li>Version control with Git</li>
