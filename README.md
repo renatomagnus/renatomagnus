@@ -14,8 +14,9 @@
   <ul>
     <li>JavaScript, React.js, Next.js</li>
     <li>Node.js, Express.js, Nest.js </li>
-   <li>MongoDB, PostgreSQL </li>li>
+    <li>MongoDB, PostgreSQL </li>
     <li>Html, CSS, Sass, Less</li>
+   <li>Mongoose, Prisma, TypeORM</li>
     <li>Cypress</li>
     <li>Version control with Git</li>
     <li>Basic UI/UX design</li>
