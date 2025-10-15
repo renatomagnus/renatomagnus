@@ -1,56 +1,65 @@
-<h1>Hello there! 👋 I'm Renato Magnus</h1>
+<h1>Olá! 👋 Eu sou o Renato Magnus</h1>
 
- <p>I'm a frontend developer passionate about creating beautiful and functional interfaces. I have experience working with technologies like React.js, Next.js, JavaScript, HTML and CSS.</p>
- 
- <h2>💼 Experience</h2>
+<p>Sou desenvolvedor full stack com foco em frontend, apaixonado por criar interfaces bonitas, performáticas e funcionais. Tenho mais de 3 anos de experiência com desenvolvimento de software e testes, aplicando metodologias ágeis como Scrum e Kanban.</p>
 
-  <ul>
-    <li>Currently, I work as a fullstack developer at BrainLite, where I'm responsible for creating and maintaining responsive and intuitive user interfaces.</li>
-    <li>Previously, I worked as an financial advisor at Santander and on small banks, where I had the opportunity to learn and enhance my soft skills.</li>
-  </ul>
-  
-  <h2>👨‍💻 Skills</h2>
+<h2>💼 Experiência</h2>
 
-  <ul>
-    <li>JavaScript, React.js, Next.js</li>
-    <li>Node.js, Express.js, Nest.js </li>
-    <li>MongoDB, PostgreSQL </li>
-    <li>Html, CSS, Sass, Less</li>
-   <li>Mongoose, Prisma, TypeORM</li>
-    <li>Cypress</li>
-    <li>Version control with Git</li>
-    <li>Basic UI/UX design</li>
-  </ul>
+<ul>
+  <li>Atualmente, trabalho como <strong>Desenvolvedor Frontend Pleno</strong> na <strong>Totte</strong>, atuando no ciclo completo de desenvolvimento de softwares de gestão e landing pages, utilizando React.js, Next.js e TypeScript, sempre com foco em performance, segurança e experiência do usuário.</li>
+  <li>Anteriormente, atuei por quase 3 anos na <strong>BrainLite</strong> como <strong>Desenvolvedor Full Stack Pleno</strong>, desenvolvendo sistemas e websites com React.js, TypeScript, Node.js e .NET, além de criar testes automatizados com Cypress e Jest.</li>
+  <li>Também trabalhei no setor financeiro por mais de 5 anos, como assessor financeiro em bancos como Santander, desenvolvendo minhas soft skills de comunicação e atendimento ao cliente.</li>
+</ul>
 
-<h2>🌱 Learning</h2>
+<h2>👨‍💻 Habilidades Técnicas</h2>
 
-  <p>I'm always eager to learn new technologies and improve my skills. Currently, I'm focused on improving the languages I already know, so that I can increasingly deliver higher quality products.</p>
+<ul>
+  <li><strong>Frontend:</strong> TypeScript, JavaScript, React.js, Next.js, Vite, HTML, CSS, Sass, Less, Tailwind</li>
+  <li><strong>Backend:</strong> Node.js, Express.js, NestJS, C#, .NET, RESTful API</li>
+  <li><strong>Testes:</strong> Jest, Cypress, Playwright, TDD, BDD (Cucumber), Postman</li>
+  <li><strong>Bancos de Dados:</strong> MongoDB, PostgreSQL, Supabase, SQLite, MySQL</li>
+  <li><strong>Mobile:</strong> React Native</li>
+  <li><strong>Outros:</strong> Git, WebSocket, JSON, REST, HTTP/HTTPS, XML, Scrum, Kanban, CI/CD, DDD, FTP</li>
+</ul>
 
- <h2>About Me</h2>
-  <p>I'm passionate about technology and constantly curious about exploring new possibilities. My love for coding and problem-solving led me to pursue a career in software development. I enjoy building innovative and efficient solutions to real-world challenges.</p>
- 
+<h2>🌱 Aprendizado Contínuo</h2>
+
+<p>Sou movido pela curiosidade e pela busca constante por aprimoramento técnico. No momento, estou focado em aprofundar meus conhecimentos nas linguagens e frameworks que já domino, com o objetivo de entregar soluções cada vez mais completas e de alta qualidade.</p>
+
+<h2>💬 Sobre Mim</h2>
+
+<p>Sou apaixonado por tecnologia e pela criação de soluções inteligentes para problemas reais. Gosto de desafios e acredito que o aprendizado contínuo é essencial para evoluir como profissional e como pessoa. Busco sempre unir design, performance e funcionalidade no que desenvolvo.</p>
+
 <br>
 <div>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renatomagnus&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
- <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renatomagnus&layout=compact"/> -->
 </div>
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></i>
-          <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />   
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg">
+  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
-          
+  <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Less" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-  <br>
- <div>
-    <h2>Get in Touch</h2>
-  <p>I'm always open to interesting discussions, collaboration opportunities, and constructive feedback. You can reach out to me through the following channels:</p>
-<ul>
-<li><strong>Email</strong>: <a href="mailto:rmagnusdarosa@gmail.com">rmagnusdarosa@gmail.com</a></li>
-<li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/renato-magnus/">Renato Magnus</a></li>
-<li><strong>WhatsApp</strong>:<a href="https://wa.me/5551984598858">+55 51 98459-8858</a></li>
-</ul>
-   </div>
+
+<br>
+<div>
+  <h2>📫 Contato</h2>
+  <p>Estou sempre aberto a novas oportunidades, parcerias e boas conversas sobre tecnologia. Você pode entrar em contato comigo por aqui:</p>
+  <ul>
+    <li><strong>Portfólio:</strong> <a href="https://renatomagnus.com">renatomagnus.com</a></li>
+    <li><strong>E-mail:</strong> <a href="mailto:rmagnusdarosa@gmail.com">rmagnusdarosa@gmail.com</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/renato-magnus/">Renato Magnus</a></li>
+    <li><strong>WhatsApp:</strong> <a href="https://wa.me/5551984598858">+55 51 98459-8858</a></li>
+  </ul>
+</div>
