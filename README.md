@@ -5,10 +5,12 @@
 <h2>💼 Experiência</h2>
 
 <ul>
-  <li>Atualmente, trabalho como <strong>Desenvolvedor Frontend Pleno</strong> na <strong>Totte</strong>, atuando no ciclo completo de desenvolvimento de softwares de gestão e landing pages, utilizando React.js, Next.js e TypeScript, sempre com foco em performance, segurança e experiência do usuário.</li>
-  <li>Anteriormente, atuei por quase 3 anos na <strong>BrainLite</strong> como <strong>Desenvolvedor Full Stack Pleno</strong>, desenvolvendo sistemas e websites com React.js, TypeScript, Node.js e .NET, além de criar testes automatizados com Cypress e Jest.</li>
+  <li>Atuo na <strong>BrainLite</strong> como <strong>Desenvolvedor Full Stack Pleno</strong>, desenvolvendo sistemas e websites com React.js, TypeScript, Node.js e .NET, além de criar testes automatizados com Cypress e Jest.</li>
+  <li>Tenho um projeto paralelo onde trabalho durante as noites e finais de semana, trabalho como <strong>Desenvolvedor Frontend Pleno</strong> na <strong>Totte</strong>, atuando no ciclo completo de desenvolvimento de softwares de gestão e landing pages, utilizando React.js, Next.js e TypeScript, sempre com foco em performance, segurança e experiência do usuário.</li>
   <li>Também trabalhei no setor financeiro por mais de 5 anos, como assessor financeiro em bancos como Santander, desenvolvendo minhas soft skills de comunicação e atendimento ao cliente.</li>
 </ul>
+
+<li><strong>Portfólio:</strong> <a href="https://renatomagnus.com">renatomagnus.com</a></li>
 
 <h2>👨‍💻 Habilidades Técnicas</h2>
 
