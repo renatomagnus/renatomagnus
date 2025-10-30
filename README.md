@@ -2,6 +2,10 @@
 
 <p>Sou desenvolvedor full stack com foco em frontend, apaixonado por criar interfaces bonitas, performáticas e funcionais. Tenho mais de 3 anos de experiência com desenvolvimento de software e testes, aplicando metodologias ágeis como Scrum e Kanban.</p>
 
+<ul>
+<li><strong>Portfólio:</strong> <a href="https://renatomagnus.com">renatomagnus.com</a></li>
+</ul>
+
 <h2>💼 Experiência</h2>
 
 <ul>
@@ -10,9 +14,7 @@
   <li>Também trabalhei no setor financeiro por mais de 5 anos, como assessor financeiro em bancos como Santander, desenvolvendo minhas soft skills de comunicação e atendimento ao cliente.</li>
 </ul>
 </br>
-<ul>
-<li><strong>Portfólio:</strong> <a href="https://renatomagnus.com">renatomagnus.com</a></li>
-</ul>
+
 
 <h2>👨‍💻 Habilidades Técnicas</h2>
 
