@@ -9,8 +9,10 @@
   <li>Tenho um projeto paralelo onde trabalho durante as noites e finais de semana, trabalho como <strong>Desenvolvedor Frontend Pleno</strong> na <strong>Totte</strong>, atuando no ciclo completo de desenvolvimento de softwares de gestão e landing pages, utilizando React.js, Next.js e TypeScript, sempre com foco em performance, segurança e experiência do usuário.</li>
   <li>Também trabalhei no setor financeiro por mais de 5 anos, como assessor financeiro em bancos como Santander, desenvolvendo minhas soft skills de comunicação e atendimento ao cliente.</li>
 </ul>
-
+</br>
+<ul>
 <li><strong>Portfólio:</strong> <a href="https://renatomagnus.com">renatomagnus.com</a></li>
+</ul>
 
 <h2>👨‍💻 Habilidades Técnicas</h2>
 
